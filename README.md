@@ -1,9 +1,9 @@
 # Pop_Project
 #########################################
 
-# Install Angular 
+## Install Angular 
 > npm install
-# Run Angular
+## Run Angular
 > ng serve
 
 
